@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="str.replase" />
+          <option value="django.core.mail.mail_manager" />
+          <option value="NewsPaper.news.models.Category.objects" />
+          <option value="NewsPaper.subscriptions.models.get_odject_or_404" />
+          <option value="NewsPaper.news.management.commands.runapscheduler.news" />
+          <option value="NewsPaper.news.management.commands.runapscheduler.*" />
+          <option value="NewsPaper.NewsPaper.urls.appsredis" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
